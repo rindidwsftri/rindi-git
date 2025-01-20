@@ -1,0 +1,5 @@
+ini adalah resolusi kegiatan xii pplg 1
+
+-teori tentang materi git dan github
+-praktik github
+-kolaborasi menggunakan github dan git
